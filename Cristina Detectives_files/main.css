@@ -8292,7 +8292,8 @@ form .input-error-2:focus {
 }
 
 .agency2-hero .bg-overlay {
-  background: rgba(17, 17, 17, 0.5);
+  /*background: rgba(17, 17, 17, 0.5);*/
+  background: rgba(17, 17, 17, 0.13);
 }
 
 .agency2-hero .large-header .demo-canvas {
